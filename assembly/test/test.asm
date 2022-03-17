@@ -12,7 +12,6 @@ _start:
 
     mov eax, 4
     mov ebx, 1
-    mov ecx, msg
     mov edx, 12
     int 0x80
 
